@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on Wallflower Brewing</title>
+    <link>https://wallflowerbrewing.com/tags/english/</link>
+    <description>Recent content in English on Wallflower Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Dec 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://wallflowerbrewing.com/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rye Barrel Old Ale</title>
+      <link>https://wallflowerbrewing.com/rye-barrel-old-ale/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/rye-barrel-old-ale/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/old-ale/barrel.jpg&#34; alt=&#34;barrel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The second beer to go into my 15 gallon Dad&amp;rsquo;s Hat rye whiskey barrel will be an old ale brewed with black treacle.&lt;/p&gt;
+&lt;p&gt;Old ale is a wide ranging style. For this version we&amp;rsquo;re shooting for ~7% abv (before barrel aging), complexity from black treacle, and not too much residual sugar. I&amp;rsquo;m hoping this all plays nicely with the gentle contribution from a barrel that&amp;rsquo;s already held imperial stout for a while.&lt;/p&gt;
+&lt;p&gt;The inspiration for the recipe comes from a Beer and Brewing &lt;a href=&#34;https://beerandbrewing.com/make-your-best-old-ale/&#34;&gt;article on old ale&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
