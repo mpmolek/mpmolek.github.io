@@ -2,24 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Wallflower Brewing</title>
-    <link>https://wallflowerbrewing.com/post/</link>
+    <link>http://desktop/post/</link>
     <description>Recent content in Posts on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 16:11:42 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 12:16:00 -0500</lastBuildDate>
     
-	<atom:link href="https://wallflowerbrewing.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://desktop/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Dark Saison I</title>
+      <link>http://desktop/dark-saison-i/</link>
+      <pubDate>Fri, 17 Apr 2020 12:16:00 -0500</pubDate>
+      
+      <guid>http://desktop/dark-saison-i/</guid>
+      <description>&lt;p&gt;This batch continues the deep dive I&amp;rsquo;ve been taking into mixed fermentation brewing over the last 6 months. I have a bunch of sours in the pipeline now and I&amp;rsquo;d like to get some funky, non-sour, brett beers going. I brewed my first &lt;a href=&#34;http://desktop/saison-vinifera&#34;&gt;brett saison&lt;/a&gt; a few weeks ago. This will be my second attempt in the broad style of funky saison.&lt;/p&gt;
+&lt;p&gt;Watching the &lt;a href=&#34;https://www.themadfermentationist.com/2019/04/dark-funky-saison-retrospective.html&#34;&gt;10 year retrospective&lt;/a&gt; from The Mad Fermentationist&amp;rsquo;s yearly dark saison project was inspirational. I&amp;rsquo;m hoping to keep up my own similar series.&lt;/p&gt;
+&lt;p&gt;One of the standout beers from that tasting was year four&amp;rsquo;s &lt;a href=&#34;https://www.themadfermentationist.com/2012/01/american-farmhouse-currant-dark-saison.html&#34;&gt;American Farmhouse Currant Dark Saison&lt;/a&gt;. I&amp;rsquo;m going to brew that recipe for the first shot at this style.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Saison Vinifera</title>
-      <link>https://wallflowerbrewing.com/saison-vinifera/</link>
+      <link>http://desktop/saison-vinifera/</link>
       <pubDate>Sat, 04 Apr 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/saison-vinifera/</guid>
+      <guid>http://desktop/saison-vinifera/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Vitis_vinifera&#34;&gt;Vitus Vinifera&lt;/a&gt; is the scientific name for the species that contains most varieties of wine grapes.&lt;/p&gt;
 &lt;p&gt;This &amp;ldquo;Saison Vinifera&amp;rdquo; will blend funky tart saison, oak, and wine.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/sapwood-saisons-small.jpg&#34; alt=&#34;Bottles of No Beginnings and First Blush&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://desktop/img/sapwood-saisons-small.jpg&#34; alt=&#34;Bottles of No Beginnings and First Blush&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A large portion of my homebrewing over the last six months has been focused on trying to emulate the great mixed fermentation beers coming out of my favorite local brewery, &lt;a href=&#34;https://sapwoodcellars.com&#34;&gt;Sapwood Cellars&lt;/a&gt;. Two of those beers were delicious tart saisons that they released in fall 2019:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;No Beginnings&lt;/strong&gt; was a pale saison with Brettanomyces, aged in Sauvignon Blanc wine barrels.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d be willing to bet that &lt;strong&gt;First Blush&lt;/strong&gt; started life as a similar base beer to No Beginnings, but it was fermented with chardonnay &lt;a href=&#34;https://en.wikipedia.org/wiki/Pomace&#34;&gt;pomace&lt;/a&gt;, and finished on whole Cabernet Franc grapes. It is rosé in appearance and the flavor has a unqiue light, tart fruitiness.&lt;/p&gt;
@@ -28,12 +39,12 @@
     
     <item>
       <title>Spring Kolsch</title>
-      <link>https://wallflowerbrewing.com/spring-kolsch/</link>
+      <link>http://desktop/spring-kolsch/</link>
       <pubDate>Sat, 28 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/spring-kolsch/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/spring.jpg&#34; alt=&#34;redbud flowers&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been homebrewing for nearly 10 years, but in that time I&amp;rsquo;ve only made one German beer, my recent &lt;a href=&#34;https://wallflowerbrewing.com/extract-kettle-sour-berliner-weisse&#34;&gt;Berliner Weisse&lt;/a&gt;. This neglect of the German styles needs to be rectified!&lt;/p&gt;
+      <guid>http://desktop/spring-kolsch/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/spring.jpg&#34; alt=&#34;redbud flowers&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been homebrewing for nearly 10 years, but in that time I&amp;rsquo;ve only made one German beer, my recent &lt;a href=&#34;http://desktop/extract-kettle-sour-berliner-weisse&#34;&gt;Berliner Weisse&lt;/a&gt;. This neglect of the German styles needs to be rectified!&lt;/p&gt;
 &lt;p&gt;I love kolsch, and I&amp;rsquo;ve been happy to see it gaining a small but significant popularity in the US in the last decade. I think the only reason I haven&amp;rsquo;t made one is just that I&amp;rsquo;ve been distracted making lots of English bitters/milds and Belgain wits to satisfy my low bitterness session beer needs. The time for Kolsch has arrived.&lt;/p&gt;
 &lt;p&gt;When making a new style for the first time, I like to go with a trusted recipe. This beer is very close to The Mad Fermentationist&amp;rsquo;s &lt;a href=&#34;https://www.themadfermentationist.com/2010/09/fall-kolsch-recipe.html&#34;&gt;Fall Kolsch&lt;/a&gt;. His example is on the bitter end for this style, but I think that will be to my liking.&lt;/p&gt;
 &lt;p&gt;Since it&amp;rsquo;s the end of March, not early September, I&amp;rsquo;ll call my version &amp;ldquo;Spring Kolsch&amp;rdquo;&lt;/p&gt;</description>
@@ -41,23 +52,47 @@
     
     <item>
       <title>Galaxy Citra NEIPA Experiment</title>
-      <link>https://wallflowerbrewing.com/galaxy-citra-neipa-experiment/</link>
+      <link>http://desktop/galaxy-citra-neipa-experiment/</link>
       <pubDate>Sat, 07 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/galaxy-citra-neipa-experiment/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/citra-galaxy/finished.jpg&#34; alt=&#34;finished beer&#34;&gt;&lt;/p&gt;
+      <guid>http://desktop/galaxy-citra-neipa-experiment/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/citra-galaxy/finished.jpg&#34; alt=&#34;finished beer&#34;&gt;&lt;/p&gt;
 &lt;p&gt;One of my brewing goals for 2020 is to improve the quality of my IPAs. I feel like this far into the brewing game, I should have a little more to show for it when I make my favorite style. They&amp;rsquo;re rarely bad, but they don&amp;rsquo;t &lt;em&gt;wow&lt;/em&gt; as often as I&amp;rsquo;d like.&lt;/p&gt;
 &lt;p&gt;To that end I&amp;rsquo;m going to be doing a series of experiments this year where make two similar beers at the same time, with just one variable changed. I hope this will improve my process, one tweak at at time.&lt;/p&gt;
 &lt;p&gt;For this brew, I&amp;rsquo;m trying out some new hardware and techniques that I&amp;rsquo;ll use for the rest of my upcoming experiments.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Solera Series Part 1: Planning &amp; First Fill</title>
+      <link>http://desktop/solera-series-part-1-planning-first-fill/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://desktop/solera-series-part-1-planning-first-fill/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/rye-stout/barrel.jpg&#34; alt=&#34;fresh barrel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been itching to start my own sour solera project ever since I started making sour beer. Barrels aren&amp;rsquo;t a requirement for a solera, lots of people make them in carboys or other vessels. But I have a romantic image of barrel aged beers and wanted to try the process for myself.&lt;/p&gt;
+&lt;p&gt;Prior to this project I&amp;rsquo;d never brewed with a barrel or even seriously considered getting one. I did a lot of background reading and I want to share what I learned getting ready for my project.&lt;/p&gt;
+&lt;h3 id=&#34;choose-a-barrel-size&#34;&gt;Choose a barrel size&lt;/h3&gt;
+&lt;p&gt;Used barrels come in a wide variety of sizes. A standard American whiskey barrel is 53 gallons. Wine barrels are typically a little larger. 60 gallons is a common size.&lt;/p&gt;
+&lt;p&gt;Smaller barrels in the 5 to 30 gallon range are also available on the used market. Most come from small whiskey producers. I&amp;rsquo;m not aware of any sources for small wine barrels or if any wineries even use small barrels. It seems that if you want a small used barrel, you&amp;rsquo;re getting a whiskey barrel.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Solera Barrel Flanders Red</title>
+      <link>http://desktop/solera-barrel-flanders-red/</link>
+      <pubDate>Mon, 30 Dec 2019 20:00:00 -0500</pubDate>
+      
+      <guid>http://desktop/solera-barrel-flanders-red/</guid>
+      <description>&lt;p&gt;This is the recipe for my Flanders Red solera barrel as brewed in late 2019.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a pretty traditional Flanders Red, based on the &amp;ldquo;Wine Barrel Flemish Red&amp;rdquo; from American Sour Beers. I may change it a bit over the years as I see how the beer develops. I&amp;rsquo;ll link to any new posts related to this recipe in the notes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Rye Barrel Old Ale</title>
-      <link>https://wallflowerbrewing.com/rye-barrel-old-ale/</link>
+      <link>http://desktop/rye-barrel-old-ale/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/rye-barrel-old-ale/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/old-ale/barrel.jpg&#34; alt=&#34;barrel&#34;&gt;&lt;/p&gt;
+      <guid>http://desktop/rye-barrel-old-ale/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/old-ale/barrel.jpg&#34; alt=&#34;barrel&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The second beer to go into my 15 gallon Dad&amp;rsquo;s Hat rye whiskey barrel will be an old ale brewed with black treacle.&lt;/p&gt;
 &lt;p&gt;Old ale is a wide ranging style. For this version we&amp;rsquo;re shooting for ~7% abv (before barrel aging), complexity from black treacle, and not too much residual sugar. I&amp;rsquo;m hoping this all plays nicely with the gentle contribution from a barrel that&amp;rsquo;s already held imperial stout for a while.&lt;/p&gt;
 &lt;p&gt;The inspiration for the recipe comes from a Beer and Brewing &lt;a href=&#34;https://beerandbrewing.com/make-your-best-old-ale/&#34;&gt;article on old ale&lt;/a&gt;.&lt;/p&gt;</description>
@@ -65,11 +100,11 @@
     
     <item>
       <title>Extract Kettle Sour Berliner Weisse</title>
-      <link>https://wallflowerbrewing.com/extract-kettle-sour-berliner-weisse/</link>
+      <link>http://desktop/extract-kettle-sour-berliner-weisse/</link>
       <pubDate>Mon, 25 Nov 2019 12:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/extract-kettle-sour-berliner-weisse/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/starter-small.jpg&#34; alt=&#34;Lacto starter&#34;&gt; &lt;img src=&#34;https://wallflowerbrewing.com/img/souring-small.jpg&#34; alt=&#34;Souring&#34;&gt;&lt;/p&gt;
+      <guid>http://desktop/extract-kettle-sour-berliner-weisse/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/starter-small.jpg&#34; alt=&#34;Lacto starter&#34;&gt; &lt;img src=&#34;http://desktop/img/souring-small.jpg&#34; alt=&#34;Souring&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve always liked Berliner Weisse, but never brewed one. And I&amp;rsquo;ve been wanting to experiment with kettle souring.&lt;/p&gt;
 &lt;p&gt;The procedure I&amp;rsquo;m following comes from this great presentation by Derek Springer: &lt;a href=&#34;https://www.fivebladesbrewing.com/presentations/berliner-and-beyond-sour-mashing-and-its-applications/&#34;&gt;Berliner and Beyond: Sour Mashing and Its Applications&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In short:&lt;/p&gt;
@@ -84,11 +119,11 @@
     
     <item>
       <title>Rye Barrel Stout</title>
-      <link>https://wallflowerbrewing.com/rye-barrel-stout/</link>
+      <link>http://desktop/rye-barrel-stout/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/rye-barrel-stout/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/rye-stout/boil.jpg&#34; alt=&#34;We&amp;rsquo;re going to need a bigger fermenter&#34;&gt;&lt;/p&gt;
+      <guid>http://desktop/rye-barrel-stout/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/rye-stout/boil.jpg&#34; alt=&#34;We&amp;rsquo;re going to need a bigger fermenter&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This beer is the first brew to go into my 15 gallon Dad&amp;rsquo;s Hat rye whiskey barrel. That barrel is destined for sour solera duty, but first I want to brew a couple of big clean beers to make the most of the barrel&amp;rsquo;s fresh whiskey character.&lt;/p&gt;
 &lt;p&gt;This stout is based on a KBS clone recipe from Zymurgy that I first brewed way back in 2013. That was a great beer, and I&amp;rsquo;m excited to try making it again.&lt;/p&gt;</description>
     </item>

@@ -2,183 +2,219 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wallflower Brewing</title>
-    <link>https://wallflowerbrewing.com/tags/</link>
+    <link>http://desktop/tags/</link>
     <description>Recent content in Tags on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2020 16:11:42 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 12:16:00 -0500</lastBuildDate>
     
-	<atom:link href="https://wallflowerbrewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://desktop/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mixed Fermentation</title>
-      <link>https://wallflowerbrewing.com/tags/mixed-fermentation/</link>
-      <pubDate>Sat, 04 Apr 2020 16:11:42 -0500</pubDate>
+      <title>Dark</title>
+      <link>http://desktop/tags/dark/</link>
+      <pubDate>Fri, 17 Apr 2020 12:16:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/mixed-fermentation/</guid>
+      <guid>http://desktop/tags/dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fruit</title>
+      <link>http://desktop/tags/fruit/</link>
+      <pubDate>Fri, 17 Apr 2020 12:16:00 -0500</pubDate>
+      
+      <guid>http://desktop/tags/fruit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Fermentation</title>
+      <link>http://desktop/tags/mixed-fermentation/</link>
+      <pubDate>Fri, 17 Apr 2020 12:16:00 -0500</pubDate>
+      
+      <guid>http://desktop/tags/mixed-fermentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oak</title>
-      <link>https://wallflowerbrewing.com/tags/oak/</link>
-      <pubDate>Sat, 04 Apr 2020 16:11:42 -0500</pubDate>
+      <link>http://desktop/tags/oak/</link>
+      <pubDate>Fri, 17 Apr 2020 12:16:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/oak/</guid>
+      <guid>http://desktop/tags/oak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saison</title>
-      <link>https://wallflowerbrewing.com/tags/saison/</link>
-      <pubDate>Sat, 04 Apr 2020 16:11:42 -0500</pubDate>
+      <link>http://desktop/tags/saison/</link>
+      <pubDate>Fri, 17 Apr 2020 12:16:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/saison/</guid>
+      <guid>http://desktop/tags/saison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zante Currants</title>
+      <link>http://desktop/tags/zante-currants/</link>
+      <pubDate>Fri, 17 Apr 2020 12:16:00 -0500</pubDate>
+      
+      <guid>http://desktop/tags/zante-currants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tart</title>
-      <link>https://wallflowerbrewing.com/tags/tart/</link>
+      <link>http://desktop/tags/tart/</link>
       <pubDate>Sat, 04 Apr 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/tart/</guid>
+      <guid>http://desktop/tags/tart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wine</title>
-      <link>https://wallflowerbrewing.com/tags/wine/</link>
+      <link>http://desktop/tags/wine/</link>
       <pubDate>Sat, 04 Apr 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/wine/</guid>
+      <guid>http://desktop/tags/wine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>German</title>
-      <link>https://wallflowerbrewing.com/tags/german/</link>
+      <link>http://desktop/tags/german/</link>
       <pubDate>Sat, 28 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/german/</guid>
+      <guid>http://desktop/tags/german/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kolsch</title>
-      <link>https://wallflowerbrewing.com/tags/kolsch/</link>
+      <link>http://desktop/tags/kolsch/</link>
       <pubDate>Sat, 28 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/kolsch/</guid>
+      <guid>http://desktop/tags/kolsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Session Beer</title>
-      <link>https://wallflowerbrewing.com/tags/session-beer/</link>
+      <link>http://desktop/tags/session-beer/</link>
       <pubDate>Sat, 28 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/session-beer/</guid>
+      <guid>http://desktop/tags/session-beer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>American</title>
-      <link>https://wallflowerbrewing.com/tags/american/</link>
+      <link>http://desktop/tags/american/</link>
       <pubDate>Sat, 07 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/american/</guid>
+      <guid>http://desktop/tags/american/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hazy</title>
-      <link>https://wallflowerbrewing.com/tags/hazy/</link>
+      <link>http://desktop/tags/hazy/</link>
       <pubDate>Sat, 07 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/hazy/</guid>
+      <guid>http://desktop/tags/hazy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPA</title>
-      <link>https://wallflowerbrewing.com/tags/ipa/</link>
+      <link>http://desktop/tags/ipa/</link>
       <pubDate>Sat, 07 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/ipa/</guid>
+      <guid>http://desktop/tags/ipa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEIPA</title>
-      <link>https://wallflowerbrewing.com/tags/neipa/</link>
+      <link>http://desktop/tags/neipa/</link>
       <pubDate>Sat, 07 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/neipa/</guid>
+      <guid>http://desktop/tags/neipa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barrel Aged</title>
-      <link>https://wallflowerbrewing.com/tags/barrel-aged/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      <link>http://desktop/tags/barrel-aged/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/barrel-aged/</guid>
+      <guid>http://desktop/tags/barrel-aged/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>English</title>
-      <link>https://wallflowerbrewing.com/tags/english/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      <title>Solera</title>
+      <link>http://desktop/tags/solera/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Whiskey</title>
-      <link>https://wallflowerbrewing.com/tags/whiskey/</link>
-      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/whiskey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Berliner</title>
-      <link>https://wallflowerbrewing.com/tags/berliner/</link>
-      <pubDate>Mon, 25 Nov 2019 12:11:42 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/berliner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kettle Sour</title>
-      <link>https://wallflowerbrewing.com/tags/kettle-sour/</link>
-      <pubDate>Mon, 25 Nov 2019 12:11:42 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/kettle-sour/</guid>
+      <guid>http://desktop/tags/solera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sour</title>
-      <link>https://wallflowerbrewing.com/tags/sour/</link>
+      <link>http://desktop/tags/sour/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://desktop/tags/sour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>http://desktop/tags/english/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://desktop/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whiskey</title>
+      <link>http://desktop/tags/whiskey/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://desktop/tags/whiskey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berliner</title>
+      <link>http://desktop/tags/berliner/</link>
       <pubDate>Mon, 25 Nov 2019 12:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/sour/</guid>
+      <guid>http://desktop/tags/berliner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kettle Sour</title>
+      <link>http://desktop/tags/kettle-sour/</link>
+      <pubDate>Mon, 25 Nov 2019 12:11:42 -0500</pubDate>
+      
+      <guid>http://desktop/tags/kettle-sour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stout</title>
-      <link>https://wallflowerbrewing.com/tags/stout/</link>
+      <link>http://desktop/tags/stout/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/tags/stout/</guid>
+      <guid>http://desktop/tags/stout/</guid>
       <description></description>
     </item>
     

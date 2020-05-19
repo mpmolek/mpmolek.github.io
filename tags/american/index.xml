@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>American on Wallflower Brewing</title>
-    <link>https://wallflowerbrewing.com/tags/american/</link>
+    <link>http://desktop/tags/american/</link>
     <description>Recent content in American on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Mar 2020 16:11:42 -0500</lastBuildDate>
     
-	<atom:link href="https://wallflowerbrewing.com/tags/american/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://desktop/tags/american/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Galaxy Citra NEIPA Experiment</title>
-      <link>https://wallflowerbrewing.com/galaxy-citra-neipa-experiment/</link>
+      <link>http://desktop/galaxy-citra-neipa-experiment/</link>
       <pubDate>Sat, 07 Mar 2020 16:11:42 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/galaxy-citra-neipa-experiment/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/citra-galaxy/finished.jpg&#34; alt=&#34;finished beer&#34;&gt;&lt;/p&gt;
+      <guid>http://desktop/galaxy-citra-neipa-experiment/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/citra-galaxy/finished.jpg&#34; alt=&#34;finished beer&#34;&gt;&lt;/p&gt;
 &lt;p&gt;One of my brewing goals for 2020 is to improve the quality of my IPAs. I feel like this far into the brewing game, I should have a little more to show for it when I make my favorite style. They&amp;rsquo;re rarely bad, but they don&amp;rsquo;t &lt;em&gt;wow&lt;/em&gt; as often as I&amp;rsquo;d like.&lt;/p&gt;
 &lt;p&gt;To that end I&amp;rsquo;m going to be doing a series of experiments this year where make two similar beers at the same time, with just one variable changed. I hope this will improve my process, one tweak at at time.&lt;/p&gt;
 &lt;p&gt;For this brew, I&amp;rsquo;m trying out some new hardware and techniques that I&amp;rsquo;ll use for the rest of my upcoming experiments.&lt;/p&gt;</description>
@@ -25,11 +25,11 @@
     
     <item>
       <title>Rye Barrel Stout</title>
-      <link>https://wallflowerbrewing.com/rye-barrel-stout/</link>
+      <link>http://desktop/rye-barrel-stout/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://wallflowerbrewing.com/rye-barrel-stout/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://wallflowerbrewing.com/img/rye-stout/boil.jpg&#34; alt=&#34;We&amp;rsquo;re going to need a bigger fermenter&#34;&gt;&lt;/p&gt;
+      <guid>http://desktop/rye-barrel-stout/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://desktop/img/rye-stout/boil.jpg&#34; alt=&#34;We&amp;rsquo;re going to need a bigger fermenter&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This beer is the first brew to go into my 15 gallon Dad&amp;rsquo;s Hat rye whiskey barrel. That barrel is destined for sour solera duty, but first I want to brew a couple of big clean beers to make the most of the barrel&amp;rsquo;s fresh whiskey character.&lt;/p&gt;
 &lt;p&gt;This stout is based on a KBS clone recipe from Zymurgy that I first brewed way back in 2013. That was a great beer, and I&amp;rsquo;m excited to try making it again.&lt;/p&gt;</description>
     </item>
