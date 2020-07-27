@@ -1235,6 +1235,38 @@ nav.pagination {
   float: left;
   margin: 0 1rem 1rem 0; }
 
+.imagefloatright{
+  float: right;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  display: inline;
+} 
+
+@media (min-width: 200px) and (max-width: 767px) {
+    .imagefloatright{
+        float:none;
+        display:table;
+        margin: 0 auto;
+    }
+}
+
+.imagefloatleft{
+  float: left;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  display: inline;
+} 
+
+@media (min-width: 200px) and (max-width: 767px) {
+    .imagefloatleft{
+        float:none;
+        display:table;
+        margin: 0 auto;
+    }
+}
+
 .wp-audio-shortcode {
   margin: 1rem 0; }
 .wp-caption {
