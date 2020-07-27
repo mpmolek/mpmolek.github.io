@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Wallflower Brewing</title>
-    <link>http://desktop/categories/</link>
+    <link>https://wallflowerbrewing.com/categories/</link>
     <description>Recent content in Categories on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jul 2020 16:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://desktop/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wallflowerbrewing.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recipes</title>
-      <link>http://desktop/categories/recipes/</link>
+      <link>https://wallflowerbrewing.com/categories/recipes/</link>
       <pubDate>Mon, 06 Jul 2020 16:00:00 -0500</pubDate>
       
-      <guid>http://desktop/categories/recipes/</guid>
+      <guid>https://wallflowerbrewing.com/categories/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Misc</title>
-      <link>http://desktop/categories/misc/</link>
+      <link>https://wallflowerbrewing.com/categories/misc/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 -0500</pubDate>
       
-      <guid>http://desktop/categories/misc/</guid>
+      <guid>https://wallflowerbrewing.com/categories/misc/</guid>
       <description></description>
     </item>
     

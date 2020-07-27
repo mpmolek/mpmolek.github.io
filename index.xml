@@ -1,30 +1,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wallflower Brewing</title>
-    <link>http://desktop/</link>
+    <link>https://wallflowerbrewing.com/</link>
     <description>Recent content on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jul 2020 16:00:00 -0500</lastBuildDate>
     
-        <atom:link href="http://desktop/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://wallflowerbrewing.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>http://desktop/post/</link>
+      <link>https://wallflowerbrewing.com/post/</link>
       <pubDate>Mon, 06 Jul 2020 16:00:00 -0500</pubDate>
       
-      <guid>http://desktop/post/</guid>
+      <guid>https://wallflowerbrewing.com/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://desktop/about/</link>
+      <link>https://wallflowerbrewing.com/about/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://desktop/about/</guid>
+      <guid>https://wallflowerbrewing.com/about/</guid>
       <description>Hi, I&amp;rsquo;m Matt. This is a blog to document my homebrewing.
 I like brewing a wide range of styles, but some of my focuses are flavorful low alcohol beers, IPAs, and lots of mixed fermentation weirdness.
 I&amp;rsquo;m from the Baltimore area and I confess to being a bit of a Sapwood Cellars fanboy.</description>
@@ -32,20 +32,20 @@ I&amp;rsquo;m from the Baltimore area and I confess to being a bit of a Sapwood 
     
     <item>
       <title>Contact</title>
-      <link>http://desktop/contact/</link>
+      <link>https://wallflowerbrewing.com/contact/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://desktop/contact/</guid>
+      <guid>https://wallflowerbrewing.com/contact/</guid>
       <description>I encourage you to ask any questions in the comments on this site.
 If you would rather email me directly please write to matt@wallflowerbrewing.com</description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>http://desktop/recipes/</link>
+      <link>https://wallflowerbrewing.com/recipes/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://desktop/recipes/</guid>
+      <guid>https://wallflowerbrewing.com/recipes/</guid>
       <description>Hoppy  ✓ Galaxy/Citra NEIPA Citra/Simcoe Double NEIPA Citra Session Ale  Funky  Saison Vinifera White - Pale saison with Brett and oak, blended with a moderate amount of white wine. Saison Vinifera Red - Pale saison with Brett and oak, blended with a larger amount of red wine. Dark Saison I (zante currant)  Sour  Extract Berliner Weisse Solera Barrel Flanders Red Pale Apricot Sour Cherry wine Tart &amp;ldquo;Rustic&amp;rdquo; Saison  Misc  Rye Barrel Stout ✓ Rye Barrel Old Ale ✓ Spring Kolsch Spring Kolsch 2 Saisonstein Hoppy Saison  ✓ = favorite recipes</description>
     </item>
     
