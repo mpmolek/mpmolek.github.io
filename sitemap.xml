@@ -3,12 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wallflowerbrewing.com/tags/american/</loc>
-    <lastmod>2020-07-28T12:00:00-05:00</lastmod>
+    <loc>https://wallflowerbrewing.com/tags/brett/</loc>
+    <lastmod>2020-11-10T12:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://wallflowerbrewing.com/categories/</loc>
+    <lastmod>2020-11-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/cider/</loc>
+    <lastmod>2020-11-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/post/</loc>
+    <lastmod>2020-11-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/categories/recipes/</loc>
+    <lastmod>2020-11-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/</loc>
+    <lastmod>2020-11-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/two-funky-ciders/</loc>
+    <lastmod>2020-11-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/best-bitter/</loc>
+    <lastmod>2020-09-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/british/</loc>
+    <lastmod>2020-09-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/session-beer/</loc>
+    <lastmod>2020-09-10T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/american/</loc>
     <lastmod>2020-07-28T12:00:00-05:00</lastmod>
   </url>
   
@@ -38,26 +83,6 @@
   </url>
   
   <url>
-    <loc>https://wallflowerbrewing.com/post/</loc>
-    <lastmod>2020-07-28T12:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/categories/recipes/</loc>
-    <lastmod>2020-07-28T12:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/tags/</loc>
-    <lastmod>2020-07-28T12:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/</loc>
-    <lastmod>2020-07-28T12:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wallflowerbrewing.com/tags/saison/</loc>
     <lastmod>2020-07-26T16:00:00-05:00</lastmod>
   </url>
@@ -74,11 +99,6 @@
   
   <url>
     <loc>https://wallflowerbrewing.com/tags/pale-ale/</loc>
-    <lastmod>2020-06-06T16:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/tags/session-beer/</loc>
     <lastmod>2020-06-06T16:00:00-05:00</lastmod>
   </url>
   
@@ -249,6 +269,11 @@
   
   <url>
     <loc>https://wallflowerbrewing.com/recipes/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   

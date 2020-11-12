@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://wallflowerbrewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brett</title>
+      <link>https://wallflowerbrewing.com/tags/brett/</link>
+      <pubDate>Tue, 10 Nov 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/brett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cider</title>
+      <link>https://wallflowerbrewing.com/tags/cider/</link>
+      <pubDate>Tue, 10 Nov 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/cider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>British</title>
+      <link>https://wallflowerbrewing.com/tags/british/</link>
+      <pubDate>Thu, 10 Sep 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/british/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Session Beer</title>
+      <link>https://wallflowerbrewing.com/tags/session-beer/</link>
+      <pubDate>Thu, 10 Sep 2020 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/session-beer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>American</title>
@@ -71,15 +107,6 @@
       <pubDate>Sat, 06 Jun 2020 16:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/pale-ale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Session Beer</title>
-      <link>https://wallflowerbrewing.com/tags/session-beer/</link>
-      <pubDate>Sat, 06 Jun 2020 16:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/session-beer/</guid>
       <description></description>
     </item>
     
