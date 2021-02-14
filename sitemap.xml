@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wallflowerbrewing.com/tags/american/</loc>
-    <lastmod>2021-02-08T16:00:00-05:00</lastmod>
+    <loc>https://wallflowerbrewing.com/categories/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wallflowerbrewing.com/categories/</loc>
+    <loc>https://wallflowerbrewing.com/tags/mixed-fermentation/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/oak/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/pale/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/pale-lambic-ish-sour/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/post/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/categories/recipes/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/sour/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/</loc>
+    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/american/</loc>
     <lastmod>2021-02-08T16:00:00-05:00</lastmod>
   </url>
   
@@ -33,37 +73,12 @@
   </url>
   
   <url>
-    <loc>https://wallflowerbrewing.com/post/</loc>
-    <lastmod>2021-02-08T16:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/categories/recipes/</loc>
-    <lastmod>2021-02-08T16:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wallflowerbrewing.com/tags/session-beer/</loc>
     <lastmod>2021-02-08T16:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wallflowerbrewing.com/tags/</loc>
-    <lastmod>2021-02-08T16:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wallflowerbrewing.com/tags/barrel-aged/</loc>
-    <lastmod>2020-12-30T20:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/tags/mixed-fermentation/</loc>
-    <lastmod>2020-12-30T20:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/tags/oak/</loc>
     <lastmod>2020-12-30T20:00:00-05:00</lastmod>
   </url>
   
@@ -74,11 +89,6 @@
   
   <url>
     <loc>https://wallflowerbrewing.com/solera-series-year-two-recipe-notes/</loc>
-    <lastmod>2020-12-30T20:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/tags/sour/</loc>
     <lastmod>2020-12-30T20:00:00-05:00</lastmod>
   </url>
   

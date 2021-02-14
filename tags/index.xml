@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Feb 2021 16:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 13 Feb 2021 18:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://wallflowerbrewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mixed Fermentation</title>
+      <link>https://wallflowerbrewing.com/tags/mixed-fermentation/</link>
+      <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/mixed-fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oak</title>
+      <link>https://wallflowerbrewing.com/tags/oak/</link>
+      <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/oak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pale</title>
+      <link>https://wallflowerbrewing.com/tags/pale/</link>
+      <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/pale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sour</title>
+      <link>https://wallflowerbrewing.com/tags/sour/</link>
+      <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/sour/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>American</title>
@@ -66,38 +102,11 @@
     </item>
     
     <item>
-      <title>Mixed Fermentation</title>
-      <link>https://wallflowerbrewing.com/tags/mixed-fermentation/</link>
-      <pubDate>Wed, 30 Dec 2020 20:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/mixed-fermentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oak</title>
-      <link>https://wallflowerbrewing.com/tags/oak/</link>
-      <pubDate>Wed, 30 Dec 2020 20:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/oak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Solera</title>
       <link>https://wallflowerbrewing.com/tags/solera/</link>
       <pubDate>Wed, 30 Dec 2020 20:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/solera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sour</title>
-      <link>https://wallflowerbrewing.com/tags/sour/</link>
-      <pubDate>Wed, 30 Dec 2020 20:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/sour/</guid>
       <description></description>
     </item>
     
