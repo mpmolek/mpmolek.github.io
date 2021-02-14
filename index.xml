@@ -5,10 +5,19 @@
     <description>Recent content on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://wallflowerbrewing.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recipes</title>
+      <link>https://wallflowerbrewing.com/recipes/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/recipes/</guid>
+      <description>Hoppy  Mosaic/Nelson/Hallertau Blanc NEIPA Galaxy/Citra NEIPA Citra/Simcoe Double NEIPA Homegrown Hops IPA Hazy Cryo Pale Ale  Sour  Extract Berliner Weisse Solera Barrel Flanders Red Pale Lambic-ish Sour Pale Apricot Sour Cherry wine  Funky  Tart &amp;ldquo;Rustic&amp;rdquo; Saison Saison Vinifera Dark Saison I (zante currant) White Wine Farmhouse Ale  Session Beers  Citra Session Ale Spring Kolsch Spring Kolsch 2 Best Bitter  Big and/or Dark  HBC 472 Oatmeal Stout Rye Barrel Stout Rye Barrel Old Ale  Misc  Saisonstein Hoppy Saison  Cider  Funky Cider 2019  </description>
+    </item>
     
     <item>
       <title>Posts</title>
@@ -29,15 +38,6 @@
 I like brewing a wide range of styles, but some of my focuses are flavorful low alcohol beers, IPAs, and lots of mixed fermentation weirdness.
 I&amp;rsquo;m from the Baltimore area and I confess to being a bit of a Sapwood Cellars fanboy.
 I encourage you to ask any questions in the comments on this site. If you would rather email me directly please write to matt@wallflowerbrewing.com</description>
-    </item>
-    
-    <item>
-      <title>Recipes</title>
-      <link>https://wallflowerbrewing.com/recipes/</link>
-      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/recipes/</guid>
-      <description>IPA  Mosaic/Nelson/Hallertau Blanc NEIPA Galaxy/Citra NEIPA Citra/Simcoe Double NEIPA Homegrown Hops IPA  Sour  Extract Berliner Weisse Solera Barrel Flanders Red Pale Apricot Sour Cherry wine Tart &amp;ldquo;Rustic&amp;rdquo; Saison  Funky  Saison Vinifera White - Pale saison with Brett and oak, blended with a moderate amount of white wine. Saison Vinifera Red - Pale saison with Brett and oak, blended with a larger amount of red wine. Dark Saison I (zante currant) Funky Cider 2019  Session Beers  Citra Session Ale Spring Kolsch Spring Kolsch 2 Best Bitter  Misc  Rye Barrel Stout Rye Barrel Old Ale Saisonstein Hoppy Saison  </description>
     </item>
     
   </channel>
