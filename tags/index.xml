@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Feb 2021 18:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://wallflowerbrewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Saison</title>
+      <link>https://wallflowerbrewing.com/tags/saison/</link>
+      <pubDate>Sat, 20 Mar 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/saison/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mixed Fermentation</title>
@@ -116,15 +125,6 @@
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/stout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saison</title>
-      <link>https://wallflowerbrewing.com/tags/saison/</link>
-      <pubDate>Tue, 08 Dec 2020 12:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/saison/</guid>
       <description></description>
     </item>
     

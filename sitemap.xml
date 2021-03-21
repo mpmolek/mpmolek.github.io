@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wallflowerbrewing.com/categories/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/post/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/categories/recipes/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/saison/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/saison-yeast-comparison-test/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wallflowerbrewing.com/tags/</loc>
+    <lastmod>2021-03-20T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wallflowerbrewing.com/recipes/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url>
@@ -10,11 +40,6 @@
   <url>
     <loc>https://wallflowerbrewing.com/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/categories/</loc>
-    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -38,22 +63,7 @@
   </url>
   
   <url>
-    <loc>https://wallflowerbrewing.com/post/</loc>
-    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/categories/recipes/</loc>
-    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wallflowerbrewing.com/tags/sour/</loc>
-    <lastmod>2021-02-13T18:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/tags/</loc>
     <lastmod>2021-02-13T18:00:00-05:00</lastmod>
   </url>
   
@@ -110,11 +120,6 @@
   <url>
     <loc>https://wallflowerbrewing.com/tags/stout/</loc>
     <lastmod>2020-12-20T12:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wallflowerbrewing.com/tags/saison/</loc>
-    <lastmod>2020-12-08T12:00:00-05:00</lastmod>
   </url>
   
   <url>
