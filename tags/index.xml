@@ -6,15 +6,33 @@
     <description>Recent content in Tags on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 06 May 2021 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://wallflowerbrewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Funky</title>
+      <link>https://wallflowerbrewing.com/tags/funky/</link>
+      <pubDate>Thu, 06 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/funky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoppy</title>
+      <link>https://wallflowerbrewing.com/tags/hoppy/</link>
+      <pubDate>Thu, 06 May 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/hoppy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Saison</title>
       <link>https://wallflowerbrewing.com/tags/saison/</link>
-      <pubDate>Sat, 20 Mar 2021 12:00:00 -0500</pubDate>
+      <pubDate>Thu, 06 May 2021 12:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/saison/</guid>
       <description></description>
@@ -71,15 +89,6 @@
       <pubDate>Mon, 08 Feb 2021 16:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/hazy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hoppy</title>
-      <link>https://wallflowerbrewing.com/tags/hoppy/</link>
-      <pubDate>Mon, 08 Feb 2021 16:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/hoppy/</guid>
       <description></description>
     </item>
     
