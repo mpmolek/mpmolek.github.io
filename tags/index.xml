@@ -6,10 +6,100 @@
     <description>Recent content in Tags on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 May 2021 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 May 2022 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://wallflowerbrewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>German</title>
+      <link>https://wallflowerbrewing.com/tags/german/</link>
+      <pubDate>Sun, 22 May 2022 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kolsch</title>
+      <link>https://wallflowerbrewing.com/tags/kolsch/</link>
+      <pubDate>Sun, 22 May 2022 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/kolsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Session Beer</title>
+      <link>https://wallflowerbrewing.com/tags/session-beer/</link>
+      <pubDate>Sun, 22 May 2022 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/session-beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barrel Aged</title>
+      <link>https://wallflowerbrewing.com/tags/barrel-aged/</link>
+      <pubDate>Sun, 02 Jan 2022 20:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/barrel-aged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Fermentation</title>
+      <link>https://wallflowerbrewing.com/tags/mixed-fermentation/</link>
+      <pubDate>Sun, 02 Jan 2022 20:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/mixed-fermentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oak</title>
+      <link>https://wallflowerbrewing.com/tags/oak/</link>
+      <pubDate>Sun, 02 Jan 2022 20:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/oak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solera</title>
+      <link>https://wallflowerbrewing.com/tags/solera/</link>
+      <pubDate>Sun, 02 Jan 2022 20:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/solera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sour</title>
+      <link>https://wallflowerbrewing.com/tags/sour/</link>
+      <pubDate>Sun, 02 Jan 2022 20:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/sour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saison</title>
+      <link>https://wallflowerbrewing.com/tags/saison/</link>
+      <pubDate>Mon, 18 Oct 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/saison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>British</title>
+      <link>https://wallflowerbrewing.com/tags/british/</link>
+      <pubDate>Sat, 25 Sep 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/british/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Funky</title>
@@ -30,47 +120,11 @@
     </item>
     
     <item>
-      <title>Saison</title>
-      <link>https://wallflowerbrewing.com/tags/saison/</link>
-      <pubDate>Thu, 06 May 2021 12:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/saison/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixed Fermentation</title>
-      <link>https://wallflowerbrewing.com/tags/mixed-fermentation/</link>
-      <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/mixed-fermentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oak</title>
-      <link>https://wallflowerbrewing.com/tags/oak/</link>
-      <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/oak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pale</title>
       <link>https://wallflowerbrewing.com/tags/pale/</link>
       <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/pale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sour</title>
-      <link>https://wallflowerbrewing.com/tags/sour/</link>
-      <pubDate>Sat, 13 Feb 2021 18:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/sour/</guid>
       <description></description>
     </item>
     
@@ -98,33 +152,6 @@
       <pubDate>Mon, 08 Feb 2021 16:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/pale-ale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Session Beer</title>
-      <link>https://wallflowerbrewing.com/tags/session-beer/</link>
-      <pubDate>Mon, 08 Feb 2021 16:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/session-beer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Barrel Aged</title>
-      <link>https://wallflowerbrewing.com/tags/barrel-aged/</link>
-      <pubDate>Wed, 30 Dec 2020 20:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/barrel-aged/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solera</title>
-      <link>https://wallflowerbrewing.com/tags/solera/</link>
-      <pubDate>Wed, 30 Dec 2020 20:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/solera/</guid>
       <description></description>
     </item>
     
@@ -165,15 +192,6 @@
     </item>
     
     <item>
-      <title>British</title>
-      <link>https://wallflowerbrewing.com/tags/british/</link>
-      <pubDate>Thu, 10 Sep 2020 12:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/british/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>IPA</title>
       <link>https://wallflowerbrewing.com/tags/ipa/</link>
       <pubDate>Tue, 28 Jul 2020 12:00:00 -0500</pubDate>
@@ -188,24 +206,6 @@
       <pubDate>Tue, 28 Jul 2020 12:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/neipa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>German</title>
-      <link>https://wallflowerbrewing.com/tags/german/</link>
-      <pubDate>Sat, 06 Jun 2020 12:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/german/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kolsch</title>
-      <link>https://wallflowerbrewing.com/tags/kolsch/</link>
-      <pubDate>Sat, 06 Jun 2020 12:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/kolsch/</guid>
       <description></description>
     </item>
     
