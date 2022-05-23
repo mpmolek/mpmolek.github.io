@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belgian on Wallflower Brewing</title>
+    <link>https://wallflowerbrewing.com/tags/belgian/</link>
+    <description>Recent content in Belgian on Wallflower Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://wallflowerbrewing.com/tags/belgian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Witbier</title>
+      <link>https://wallflowerbrewing.com/witbier/</link>
+      <pubDate>Mon, 23 May 2022 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/witbier/</guid>
+      <description>&lt;p&gt;Wit used to be my most brewed style, but I haven&amp;rsquo;t made any recently. Not many notes survive from my old wit brews, so I&amp;rsquo;m going to start from scratch with this recipe.&lt;/p&gt;
+&lt;p&gt;This brew will be a mix of recipes from Radical Brewing and Brewing Classic Styles&lt;/p&gt;
+&lt;p&gt;For one twist on tradition, I&amp;rsquo;ll be using Omega&amp;rsquo;s Jovaru Lithuanian farmhouse ale.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Wallflower Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 May 2022 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2022 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://wallflowerbrewing.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Belgian</title>
+      <link>https://wallflowerbrewing.com/tags/belgian/</link>
+      <pubDate>Mon, 23 May 2022 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/belgian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Session Beer</title>
+      <link>https://wallflowerbrewing.com/tags/session-beer/</link>
+      <pubDate>Mon, 23 May 2022 12:00:00 -0500</pubDate>
+      
+      <guid>https://wallflowerbrewing.com/tags/session-beer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>German</title>
@@ -26,15 +44,6 @@
       <pubDate>Sun, 22 May 2022 12:00:00 -0500</pubDate>
       
       <guid>https://wallflowerbrewing.com/tags/kolsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Session Beer</title>
-      <link>https://wallflowerbrewing.com/tags/session-beer/</link>
-      <pubDate>Sun, 22 May 2022 12:00:00 -0500</pubDate>
-      
-      <guid>https://wallflowerbrewing.com/tags/session-beer/</guid>
       <description></description>
     </item>
     
